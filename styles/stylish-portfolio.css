@@ -224,6 +224,19 @@ hr.small {
   height: 250px;
 }
 
+
+.bec-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 205px;
+  height: 250px;
+}
+
+.bec-image {
+    background-image: url("../styles/img/profile.jpeg");
+}
+
+
 .psychic-game-image {
     background-image: url("../styles/img/psychic.jpg");
 }
