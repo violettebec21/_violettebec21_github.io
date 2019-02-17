@@ -218,7 +218,7 @@ hr.small {
     margin-bottom: 30px;
 }
 
-.psychic-game-image, .giphy-image, .overplanner-image, .train-scheduler-image,  .placeholder-image {
+.liri-node-image, .psychic-game-image, .giphy-image, .overplanner-image, .train-scheduler-image,  .placeholder-image {
   background-size: cover;
   background-repeat: no-repeat;
   width: 262px;
@@ -240,6 +240,10 @@ hr.small {
 
 .psychic-game-image {
     background-image: url("../styles/img/psychic.jpg");
+}
+
+.liri-node-image {
+    background-image: url("../styles/img/LIRI.jpg");
 }
 
 .placeholder-image {
