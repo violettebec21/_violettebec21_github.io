@@ -220,21 +220,17 @@ hr.small {
 
 .liri-node-image, .psychic-game-image, .giphy-image, .overplanner-image, .train-scheduler-image,  .placeholder-image {
   background-size: cover;
-  background-repeat: no-repeat;
   width: 262px;
   height: 250px;
 }
 
 
 .bec-image {
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 205px;
-  height: 250px;
-}
-
-.bec-image {
-    background-image: url("../styles/img/profile.jpeg");
+    background-size: cover;
+    background-image: url(../styles/img/profile.jpeg);
+    width: 205px;
+    height: 253px;
+    margin: 15px auto;
 }
 
 
@@ -290,6 +286,10 @@ hr.small {
     margin: 0 auto;
 }
 
+.project-img {
+    margin: 0 auto;
+}
+
 .img-portfolio:hover {
     opacity: 0.8;
 }
@@ -311,3 +311,6 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+/* ////////////////////////////// */
+
