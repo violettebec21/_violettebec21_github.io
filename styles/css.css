@@ -4,6 +4,10 @@
  nav .brand-logo {
    color: #444;
  }
+
+ .lead {
+   font-size: 16px;
+ }
  
  .deployed { 
    color: blue;
